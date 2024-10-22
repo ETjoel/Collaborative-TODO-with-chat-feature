@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238200191440",
+    "firebase_url": "https://todo-with-chat-functionality-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todo-with-chat-functionality",
+    "storage_bucket": "todo-with-chat-functionality.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238200191440:android:b4affe452b0133cdf8e1d5",
+        "android_client_info": {
+          "package_name": "com.example.collaborative_todo_with_chat_feature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238200191440-j5ra4l71f7v4nl0pm4lpqre7oqg29r6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88nLhGMYswoYGt-YTdDP-tUFtiYqNqhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238200191440-j5ra4l71f7v4nl0pm4lpqre7oqg29r6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,8 +7,16 @@ environment:
   sdk: '>=3.0.5 <4.0.0'
 
 dependencies:
+  cloud_firestore: ^4.14.0
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.24.2
   flutter:
     sdk: flutter
+  internet_connection_checker: ^1.0.0+1
+  internet_connection_checker_plus: ^2.2.0
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:

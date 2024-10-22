@@ -1,0 +1,1 @@
+const userCollection = 'users';

@@ -1,5 +1,5 @@
 import 'package:collaborative_todo_with_chat_feature/core/failure/failure.dart';
-import 'package:collaborative_todo_with_chat_feature/features/auth/data/datasource/remote_datasource/auth_local_datasource.dart';
+import 'package:collaborative_todo_with_chat_feature/features/auth/data/datasource/local_datasource/auth_local_datasource.dart';
 import 'package:collaborative_todo_with_chat_feature/features/auth/data/datasource/remote_datasource/auth_remote_datasource.dart';
 import 'package:collaborative_todo_with_chat_feature/features/auth/data/models/user_model.dart';
 import 'package:collaborative_todo_with_chat_feature/features/auth/domain/entities/user_entity.dart';

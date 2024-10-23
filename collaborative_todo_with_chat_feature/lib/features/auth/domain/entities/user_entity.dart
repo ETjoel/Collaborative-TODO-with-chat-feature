@@ -8,7 +8,7 @@ class UserEntity extends Equatable {
   final String email;
   final String imageurl;
 
-  UserEntity({
+  const UserEntity({
     required this.userid,
     required this.username,
     required this.fname,

@@ -14,9 +14,12 @@ dependencies:
   firebase_core: ^2.24.2
   flutter:
     sdk: flutter
+  flutter_bloc: ^8.1.6
+  get_it: ^8.0.1
   internet_connection_checker: ^1.0.0+1
   internet_connection_checker_plus: ^2.2.0
   shared_preferences: ^2.2.2
+  uuid: ^4.2.2
 
 dev_dependencies:
   flutter_test:
